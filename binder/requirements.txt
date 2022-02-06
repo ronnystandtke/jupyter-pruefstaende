@@ -1,0 +1,5 @@
+ipywidgets
+jupyterlab-link-share
+matplotlib
+numpy
+scipy
